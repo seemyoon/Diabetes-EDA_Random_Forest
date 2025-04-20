@@ -1,0 +1,1 @@
+Full dataset you can download here: https://www.kaggle.com/code/tumpanjawat/diabetes-eda-random-forest-hp/notebook
